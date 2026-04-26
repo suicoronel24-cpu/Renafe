@@ -76,8 +76,7 @@ const initMusic = () => {
         "Destiny_-_Jim_Brickman__Official_Lyrics_Video_(48k).mp3",
         "Erik_Santos_-_Magpahanggang_Wakas__Lyrics____Erik_Santos(48k).mp3",
         "Ito_ang_Pangako_ko_with_lyrics_by_Nyoy_Volante__Perfect_Match__created_by_lucelle____.wmv(48k).mp3",
-        "Karmine_-_Kahit_Na_Malayo_Ka__Unofficial_Lyric_Video__#karmineph__#musicvideo_#opmsong(48k).mp3"
-    
+        "kahit.mp3"
     ];
     let currentTrack = 0;
 
